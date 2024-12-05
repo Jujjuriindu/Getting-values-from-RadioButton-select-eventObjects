@@ -1,0 +1,35 @@
+.App {
+  text-align: center;
+}
+
+form {
+  background-color: lightsalmon;
+  border: 3px solid black;
+  width: 550px;
+  height: 600px;
+  margin: 20px;
+}
+
+form label {
+  display: inline-block;
+  width: 200px;
+}
+
+form div {
+  display: inline-block;
+  margin: 10px;
+}
+
+button {
+  width: 120px;
+  padding: 10px;
+  margin: 20px;
+  border: 1px solid black;
+  border-radius: 10px;
+  background-color: brown;
+  color: white;
+}
+
+.genderRadio {
+  width: 70px;
+}
